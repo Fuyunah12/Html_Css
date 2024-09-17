@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+body{
+    background-color: white;
+}
+h1{
+    font-family: "Homemade Apple", cursive;
+    font-weight: lighter;
+    font-style: normal;
+}
+a{
+    color: #6cd8b4;
+    text-decoration: none;
+}
+p{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-size: 18pt;
+    font-style: normal;
+}
