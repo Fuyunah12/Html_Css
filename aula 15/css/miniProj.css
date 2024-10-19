@@ -1,0 +1,31 @@
+body{
+    background: #fddf23 url(../images/Wallpaper\ Fullmetal.png) center center fixed; 
+    background-size: 100% 100%;
+    font: normal lighter 13pt cursive;
+    text-align: justify;
+}
+header{
+    color: #12ff32;
+    text-align: center;
+}
+main{
+    text-shadow: 4px 4px 4px #0000009a;
+    color: chartreuse;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: #d4d4d40a;
+    margin: auto;
+    max-width: 400px;
+}
+footer{
+    margin-top:  6px;
+    text-align: center;
+}
+footer p{
+    margin: auto;
+    padding: 3px;
+    border-radius: 8px;
+    max-width: 115px;
+    color: burlywood;
+    background-color: #6e6e6e5d;
+}
